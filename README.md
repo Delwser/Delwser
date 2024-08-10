@@ -7,7 +7,7 @@
 
 
 ‎ 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delwser&layout=compact&theme=midnight-purple) <img align="left" alt="Coding" width="190" src="https://i.pinimg.com/564x/14/49/3a/14493ae61eeeaaea780254d2cb61d494.jpg">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delwser&layout=compact&theme=midnight-purple) <img align="left" alt="Coding" width="190" src="https://i.pinimg.com/originals/fc/5a/20/fc5a2025b338cc8da83f50a15a1052b9.gif">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=000000) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
 
