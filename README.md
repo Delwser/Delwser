@@ -1,5 +1,5 @@
 ## Delwser's Here 💀
-<img align="left" alt="Coding" width="200" src="https://i.pinimg.com/564x/c3/9b/bb/c39bbb07f378a701a9f3e61977c82ad5.jpg">
+<img align="left" alt="Coding" width="200" src="https://i.pinimg.com/564x/f5/d0/04/f5d0049097633e7d53aa93cf2d17d2d2.jpg">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delwser&show_icons=true&theme=radical)
 
