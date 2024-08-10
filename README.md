@@ -3,6 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delwser&show_icons=true&theme=radical)
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=a93huzxn70c6pyw4zqe62vdvd&count=1)
 
 
 <!--
