@@ -1,7 +1,7 @@
 ## Hi there 👋
-[![MasterHead](https://prnt.sc/-NkvV_-c32ya)](http://github.com/Delwser)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delwser)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delwser&show_icons=true&theme=radical)
 <!--
 **Delwser/Delwser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
