@@ -1,9 +1,9 @@
 ## Delwser's Here 💀
 <img align="left" alt="Coding" width="200" src="https://i.pinimg.com/564x/f5/d0/04/f5d0049097633e7d53aa93cf2d17d2d2.jpg">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delwser&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delwser&show_icons=true&theme=midnight-purple)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=delwser&theme=radical&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=delwser&theme=midnight-purple&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
