@@ -12,4 +12,8 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=000000) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
 
-<img align="left" alt="Coding" width="190" src="https://i.gifer.com/tIH.mp4">
+
+
+
+https://github.com/user-attachments/assets/673d05e2-58ae-4606-8428-39c37d7e737e
+
