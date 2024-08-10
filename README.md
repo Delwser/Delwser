@@ -3,9 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delwser&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=delwser)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=delwser&theme=radical&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
 **Delwser/Delwser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
