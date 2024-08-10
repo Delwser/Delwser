@@ -5,7 +5,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=delwser&theme=radical&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
 **Delwser/Delwser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
