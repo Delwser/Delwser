@@ -15,5 +15,5 @@
 
 
 
-![](https://github.com/Delwser/Delwser/blob/main/skull.gif)
+![](width="235"src="https://github.com/Delwser/Delwser/blob/main/skull.gif")
 
