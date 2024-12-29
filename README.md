@@ -1,5 +1,5 @@
 ## Delwser's Here 💀
-<img align="left" alt="Coding" width="235" src="https://i.pinimg.com/736x/05/b1/eb/05b1ebfded85a218b858515f5506a436.jpg">
+<img align="left" alt="Coding" width="235" src="https://i.pinimg.com/736x/9f/39/8c/9f398cec450f0b6675a279e658dd2040.jpg">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=delwser&theme=midnight-purple&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
