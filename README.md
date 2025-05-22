@@ -6,12 +6,6 @@
 ```ruby
 I'm a just cybersecurity student
 ```
-
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
