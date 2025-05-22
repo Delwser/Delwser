@@ -23,6 +23,9 @@ I'm a just cybersecurity student
 <h2 align="left"> 
 
 </c>
+</c>
+</c>
+
 
 <h2>🃏 Github Stats:</h2>
 
