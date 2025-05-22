@@ -4,13 +4,7 @@
 <img align="left" width="210" src="https://i.pinimg.com/736x/9f/39/8c/9f398cec450f0b6675a279e658dd2040.jpg">
 
 ```ruby
-Olá, Prazer me chamo Guilherme, mais conhecido como Delwser.
-Sou estudante de CyberSecurity,
-e durante meu tempo livre,
-trabalho em projetos pessoais.
-Atualmente tenho interesse em
-Pentest, e Hardware Hacking
-Caso tenha interesse, me segue no [LinkedIn](#).
+I'm a just cybersecurity student
 ```
 
 <br />
