@@ -1,17 +1,9 @@
 ## Delwser's Here 💀
 
-## Sobre mim:
-<img align="left" width="210" src="https://i.pinimg.com/736x/9f/39/8c/9f398cec450f0b6675a279e658dd2040.jpg">
-
+## Whois:
 ```ruby
 I'm a just cybersecurity student
 ```
-<br />
-<br />
-<br />
-<br />
-<br />
-
 <h2 align="left">📀 Minhas Skills:</h2> 
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
