@@ -1,30 +1,19 @@
 ## Delwser's Here 💀
 
-## Whois:
-```ruby
-I'm a just cybersecurity student
-```
-<h2 align="left">📀 Minhas Skills:</h2> 
+<h1 align="center">Prazer sou o Guilheme</h1>
+<h3 align="center">Sou apenas um Estudante de Cibersegurança</h3>
 
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell_Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=delwser&label=Profile%20views&color=0e75b6&style=flat" alt="delwser" /> </p>
 
-<h2 align="left"> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-</c>
-</c>
-</c>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delwser&show_icons=true&locale=en&layout=compact" alt="delwser" /></p>
 
-<h2>🃏 Github Stats:</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delwser&show_icons=true&locale=en" alt="delwser" /></p>
 
-<a align="center"> 
-    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Delwser&theme=github_dark"/></td><td>
-<h2>
-Redes 📱
-</h2>
-  <a  href=><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delwser&" alt="delwser" /></p>
