@@ -22,19 +22,11 @@ I started my journey early on. I've always been interested in computers, and I e
 
 <p align="left"> <a href="https://www.github.com/delwser" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/delwser"><img src="https://github-readme-stats.vercel.app/api?username=delwser&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&show_icons=true" alt="delwser's GitHub stats" /></a>
-
-<a href="http://www.github.com/delwser"><img src="https://github-readme-streak-stats.herokuapp.com/?user=delwser&stroke=ffffff&background=1c1917&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/delwser" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delwser&langs_count=10&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<br> 
-
-## Stalk-me
+#### Stalk-me
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Th3L0s3r.png" alt="Your Image Badge" />
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2864349" style='border:none;'></iframe>
+
 
