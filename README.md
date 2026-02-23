@@ -27,6 +27,6 @@ I started my journey early on. I've always been interested in computers, and I e
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Th3L0s3r.png" alt="Your Image Badge" />
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2864349" style='border:none;'></iframe>
+<a><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2864349" style='border:none;'></iframe></a>
 
 
